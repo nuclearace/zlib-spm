@@ -1,4 +1,4 @@
-module zlib [system] {
+module CZLib [system] {
     header "zconf.h"
     header "zlib.h"
     link "z"
